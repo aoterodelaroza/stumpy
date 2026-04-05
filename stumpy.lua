@@ -13,6 +13,7 @@
 -- You should have received a copy of the GNU General Public License
 -- along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+-- TODO: add icon
 -- TODO: consider how clients travel between different tags - use last_tag to handle all
 -- TODO: mod4+1 = single stack, mod4+2 = two stacks, etc.
 
