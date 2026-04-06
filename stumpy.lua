@@ -14,6 +14,7 @@
 -- along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 -- TODO: add icon
+-- TODO: o and c-o swap clients between stacks, instead of just moving one
 -- TODO: consider how clients travel between different tags - use last_tag to handle all
 -- TODO: mod4+1 = single stack, mod4+2 = two stacks, etc.
 
